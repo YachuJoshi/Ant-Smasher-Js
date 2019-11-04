@@ -1,0 +1,15 @@
+.board {
+    position: relative;
+    background-color: #1D1B1B;
+    height: 735px;
+    width: 500px;
+}
+
+.ball {
+    position: absolute;
+    border-radius: 50%;
+    height: 24px;
+    width: 24px;
+    background-color: #EC4D37;
+    cursor: pointer;
+}
